@@ -2,7 +2,7 @@
 The material you see here is the heart of an instructor-led Python training course used for learing Python Basics.
 
 **Target Audience**
-Audience of this course are usually students who have no prior knowledge of Python but knowledge of common programming topics is assumed.
+Audience of this course are usually students who have no prior knowledge of Python and who are absolute beginners in the world of Programming languages.
 
 **Course Objectives**
 The goal of this course is to cover foundational aspects of Python programming. By the end of this course, students should be able to start writing useful Python programs on their own or be able to understand and modify Python code written by their coworkers.
