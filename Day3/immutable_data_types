@@ -1,0 +1,8 @@
+Following are immuatable built-in types in Python:
+int
+float
+bool
+str
+tuple
+frozenset
+bytes

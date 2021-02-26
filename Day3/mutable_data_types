@@ -1,0 +1,6 @@
+A mutable object is the one whose value can be changed
+Python has foll. mutable objects:-
+list
+dict
+set
+Bytearray
