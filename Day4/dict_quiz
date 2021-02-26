@@ -1,0 +1,46 @@
+Q1. x = [
+    'a',
+    'b',
+    {
+        'foo': 1,
+        'bar':
+        {
+            'x' : 10,
+            'y' : 20,
+            'z' : 30
+        },
+        'baz': 3
+    },
+    'c',
+    'd'
+]
+What is the expression involving x that accesses the value 30?
+x[2]['bar']['z']
+
+Q2. Which of the following are true of Python dictionaries:
+a. Dictionaries are accessed by key.
+b. Dictionaries are mutable.
+c. Dictionaries can be nested to any depth.
+d. Items are accessed by their position in a dictionary.
+e. All the keys in a dictionary must be of the same type.
+f. A dictionary can contain any object type except another dictionary.
+
+Q3. x = [
+    'a',
+    'b',
+    {
+        'foo': 1,
+        'bar':
+        {
+            'x' : 10,
+            'y' : 20,
+            'z' : 30
+        },
+        'baz': 3
+    },
+    'c',
+    'd'
+]
+Is the following statement True or False?
+
+'z' in x[2]
